@@ -1,0 +1,6 @@
+[book]
+authors = ["Melody Aichroy-Wuyts"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mollOSc Devlog"
